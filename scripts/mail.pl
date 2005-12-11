@@ -1,4 +1,4 @@
-# $Id: mail.pl,v 1.1 2002/03/10 21:33:46 cras Exp $
+# $Id$
 
 $VERSION = "2.0";
 %IRSSI = (
